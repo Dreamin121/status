@@ -18,11 +18,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
+      text: 'Home',
       url: 'https://home.xmelon.cafe/'
     },
     {
-      text: '博客',
+      text: 'Blog',
       url: 'https://xmelon.cafe/'
     },
     {
